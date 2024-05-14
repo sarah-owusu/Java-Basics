@@ -1,4 +1,4 @@
-package Question3;
+package Week1Lab.Question3;
 
 public class SwitchStatement {
     public static void main(String args[]){

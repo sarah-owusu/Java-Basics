@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="663f2bda-b8ee-4b93-83ed-47c7c4da70eb" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2Lab/Qestion2/color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2Lab/Question3/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question3/ConditionalStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question3/ConditionalStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question3/LoopControlStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question3/LoopControlStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question3/LoopingStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question3/LoopingStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question3/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question3/NestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question3/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1Lab/Question3/SwitchStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2g8z2sc5vnVwcfcfPWTYxmZkv3n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,15 +42,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Area.executor": "Run",
     "Application.ConditionalStatement.executor": "Run",
     "Application.ConditionalStatements.executor": "Run",
+    "Application.Devider.executor": "Run",
     "Application.LoopControlStatement.executor": "Run",
     "Application.LoopingStructure.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.NestedLoop.executor": "Run",
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.Question3.executor": "Run",
+    "Application.Shape.executor": "Run",
     "Application.SwitchStatement.executor": "Run",
+    "Application.TestVehicle.executor": "Run",
+    "Application.color.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -52,10 +67,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715093793067</updated>
-      <workItem from="1715093793977" duration="16266000" />
+      <workItem from="1715093793977" duration="18528000" />
+      <workItem from="1715603400284" duration="14146000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />

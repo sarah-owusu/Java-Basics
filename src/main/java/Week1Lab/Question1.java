@@ -1,4 +1,4 @@
-package Lab1;
+package Week1Lab;
 
 public class Question1 {
 
