@@ -10,7 +10,7 @@ public class Question1 {
       int newBankBalance = bankBalance-= 100;
         //                 =750 - 100
         //                = 650
-        System.out.println(bankBalance);
+        System.out.println(newBankBalance);
 
         double fahrenheit = 50d;
         double celsius;
